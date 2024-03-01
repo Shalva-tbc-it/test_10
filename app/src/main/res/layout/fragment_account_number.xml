@@ -13,7 +13,7 @@
         android:layout_height="wrap_content"
         android:layout_margin="10dp"
         android:background="@drawable/cards_corner"
-        android:hint="@string/cards_number"
+        android:hint="@string/id_card_number_phone_number"
         android:padding="10dp" />
 
 
